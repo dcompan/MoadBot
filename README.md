@@ -1,4 +1,4 @@
 # MoadBot
  Movie Advisor Chatbot  
- DASI subject project  
+ DASI project  
  Source: [GitHub](https://github.com/dcompan/MoadBot)
